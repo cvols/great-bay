@@ -1,0 +1,23 @@
+{
+  "name": "great-bay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "great-bay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvols/great-bay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvols/great-bay/issues"
+  },
+  "homepage": "https://github.com/cvols/great-bay#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
